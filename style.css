@@ -1,0 +1,119 @@
+/*
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+*/
+/* <header>
+      <nav>
+        <aside class="legacy">
+.legacy {
+  box-sizing: content-box;
+}
+*/
+/* REMOVE DEFAULT MARGIN
+* {
+  margin: 0;
+}
+*/
+/* body {
+  -webkit-font-smoothing: antialiased;
+}
+*/
+/* SENSIBLE MEDIA DEFAULTS
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+*/
+/* Inherit fonts for form controls
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+*/
+/* WORD WRAPPING
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+*/
+/* ROOT STACKING CONTEXT
+#root,
+#__next {
+  isolation: isolate;
+} for example,
+create-react-app uses a <div id="root">,
+so the correct selector is #root.
+*/
+
+
+/*
+*{
+  margin: 0px;
+  padding: 0px;
+}
+*/
+
+.attribution {
+  font-size: 11px;
+  text-align: center; 
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.body {
+  margin: 0px;
+  padding: 0px;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.container-main {
+  display: grid;
+  grid-template-columns: 21% 21% 21%;
+  justify-content: center;
+  border-bottom: 1px solid black;
+}
+
+.container-1 {
+  border: 1px;
+  padding: 100px;
+  background-color: hsl(31, 77%, 52%);
+}
+
+.container-2 {
+  border: 1px;
+  padding: 100px;
+  background-color: hsl(184, 100%, 22%);
+}
+
+.container-3 {
+  border: 1px;
+  padding: 100px;
+  background-color: cyan;
+}
+
+
+
+header {
+  font-size: xx-large;
+}
+
+
+
+
+
