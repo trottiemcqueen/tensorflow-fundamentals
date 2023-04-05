@@ -84,33 +84,110 @@ so the correct selector is #root.
 
 .container-main {
   display: grid;
-  grid-template-columns: 21% 21% 21%;
+  grid-template-columns: repeat(3, 200px);
+  justify-items: center;
   justify-content: center;
-  border-bottom: 1px solid black;
+  
 }
 
 .container-1 {
   border: 1px;
-  padding: 100px;
+  padding: 70px;
   background-color: hsl(31, 77%, 52%);
 }
 
 .container-2 {
   border: 1px;
-  padding: 100px;
+  padding: 70px;
   background-color: hsl(184, 100%, 22%);
 }
 
 .container-3 {
   border: 1px;
-  padding: 100px;
+  padding: 70px;
   background-color: cyan;
 }
+
+.button-1 {
+  border: 0;
+  line-height: 1;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: black;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6), inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+
+}
+
+
+
+.button-2 {
+  border: 0;
+  line-height: 1;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: black;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6), inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+}
+
+.button-3 {
+  border: 0;
+  line-height: 1;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: black;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6), inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+  
+}
+
+.button-1:hover {
+  background-color: aquamarine;
+}
+.button-1:active {
+  box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.6), inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+
+}
+.button-2:hover {
+  background-color: aquamarine;
+}
+
+.button-2:active {
+  box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.6), inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+
+}
+.button-3:hover {
+  background-color: aquamarine;
+}
+.button-3:active {
+  box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.6), inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+
+}
+
+
+
 
 
 
 header {
   font-size: xx-large;
+  color: cornsilk;
+}
+
+p {
+  color: cornsilk;
+  font-size: 15px;
+  
 }
 
 
