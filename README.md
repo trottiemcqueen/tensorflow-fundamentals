@@ -1,5 +1,5 @@
-### TensorFlow Developer Course, I'm learning each of the breakdown analysis ###
-# I have a new domain, Blog and new site coming up soon to help others #
+# TensorFlow Developer Course, I'm learning each of the breakdown analysis ###
+### I have a new domain, Blog and new site coming up soon to help others #
 
 
 0 — TensorFlow Fundamentals
