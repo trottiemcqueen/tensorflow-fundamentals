@@ -1,6 +1,7 @@
 # TensorFlow Developer Course, I'm learning each of the breakdown analysis ###
 ### I have a new domain, Blog and new site coming up soon to help others #
-
+<hr>
+<hr>
 
 0 — TensorFlow Fundamentals
 
@@ -17,7 +18,7 @@ Using @tf.function (a way to speed up your regular Python functions)
 Using GPUs with TensorFlow
 
 
-
+<hr>
 
 1 — Neural Network Regression with TensorFlow
 
@@ -29,7 +30,7 @@ Learn the different components which make up a deep learning model (loss functio
 
 Learn how to diagnose a regression problem (predicting a number) and build a neural network for it
 
-
+<hr>
 
 2 — Neural Network Classification with TensorFlow
 
@@ -43,7 +44,7 @@ Plot modelling performance metrics against each other
 
 Match input (training data shape) and output shapes (prediction data target)
 
-
+<hr>
 
 
 3 — Computer Vision and Convolutional Neural Networks with TensorFlow
@@ -56,7 +57,7 @@ Learn to how to build computer vision neural networks
 
 Learn how to use real-world images with your computer vision models
 
-
+<hr>
 
 4 — Transfer Learning with TensorFlow Part 1: Feature Extraction
 
@@ -66,7 +67,7 @@ Learn how to use TensorFlow Hub for pre-trained models
 
 Learn how to use TensorBoard to compare the performance of several different models
 
-
+<hr>
 
 5 — Transfer Learning with TensorFlow Part 2: Fine-tuning
 
@@ -78,7 +79,7 @@ Learn how to fine-tune a pre-trained model to your own custom problem
 
 Learn how to use Callbacks to add functionality to your model during training
 
-
+<hr>
 
 6 — Transfer Learning with TensorFlow Part 3: Scaling Up (Food Vision mini)
 
@@ -88,13 +89,13 @@ Learn to how evaluate your machine learning models by finding the most wrong pre
 
 Beat the original Food101 paper using only 10% of the data
 
-
+<hr>
 
 7 — Milestone Project 1: Food Vision
 
 Combine everything you've learned in the previous 6 notebooks to build Food Vision: a computer vision model able to classify 101 different kinds of foods. Our model well and truly beats the original Food101 paper.
 
-
+<hr>
 
 8 — NLP Fundamentals in TensorFlow
 
@@ -116,13 +117,13 @@ CNNs
 
 Learn how to evaluate your NLP models
 
-
+<hr>
 
 9 — Milestone Project 2: SkimLit
 
 Replicate a the model which powers the PubMed 200k paper to classify different sequences in PubMed medical abstracts (which can help researchers read through medical abstracts faster)
 
-
+<hr>
 
 10 — Time Series fundamentals in TensorFlow
 
@@ -140,8 +141,8 @@ RNNs (recurrent neural networks)
 
 CNNs (convolutional neural networks)
 
-
+<hr>
 
 11 — Milestone Project 3: (Surprise)
 
-If you've read this far, you are probably interested in the course. This last project will be good.. we promise you, so see you inside the course ;)
+### If you've read this far, you are probably interested. This last project will be good.. I promise you!
