@@ -1,6 +1,8 @@
 # TensorFlow Developer Course, I'm learning each of the breakdown analysis ###
 ### I have a new domain, Blog and new site coming up soon to help others #
+
 <hr>
+
 *** Note *** If you're having trouble starting off where you left off in JNotebook, check illustration:
   <ul>
     <li>Hit the `Connect` button</li>
@@ -9,8 +11,11 @@
     <li>Then your good to go! Start back coding</li>
   </ul>
 <hr>
+
     Just something I wanted to share, in case you were wondering why you kept getting error messages after
-    reconnecting.![Screen Shot 2024-05-27 at 3 25 29 PM](https://github.com/trottiemcqueen/tensorflow-fundamentals/assets/123763473/306c2cd2-4918-46b9-85b4-c024099bea80)
+    reconnecting.
+    
+    ![Screen Shot 2024-05-27 at 3 25 29 PM](https://github.com/trottiemcqueen/tensorflow-fundamentals/assets/123763473/306c2cd2-4918-46b9-85b4-c024099bea80)
 
 
 0 — TensorFlow Fundamentals
