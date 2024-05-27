@@ -11,7 +11,6 @@
     <li>Then your good to go! Start back coding</li>
   </ul>
 <hr>
-
     Just something I wanted to share, in case you were wondering why you kept getting error messages after
     reconnecting.![Screen Shot 2024-05-27 at 3 25 29 PM](https://github.com/trottiemcqueen/tensorflow-fundamentals/assets/123763473/306c2cd2-4918-46b9-85b4-c024099bea80)
 
